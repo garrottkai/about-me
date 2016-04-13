@@ -1,3 +1,7 @@
 #main-heading {
-	background-color: #FFFFCC;
+alignment: center;
+}
+
+#intro-paragraph {
+	alignment: center;
 }
